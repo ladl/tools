@@ -1,0 +1,7 @@
+git init
+git config --list
+git add *
+git commit -m 'initial project version'
+git status
+git remote add origin https://github.com/ladl/grailsdemo.git
+git push -u origin master
