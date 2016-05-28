@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 https://git-scm.com/book/en/v2/Getting-Started-Git-Basics
+=======
+>>>>>>> b5fb5cd006c404d10791071f9c072fd19596b010
 git init
 git config --list
 git add *
